@@ -3,4 +3,5 @@ deepface==0.0.78
 pillow
 opencv-python-headless
 keras==2.8
-retinaface==1.1.1
+retinaface==0.0.17
+tensorflow==2.5.0
