@@ -2,7 +2,7 @@ pip install deepface==0.0.78 keras==2.10 retinaface==0.0.17 opencv-python-headle
 pip install tensorflow==2.5.0
 pip install deepface==0.0.78
 pip install retinaface==0.0.17
-
+pip install -r requirements.txt
 # import module
 import streamlit as st
 import pandas as pd
