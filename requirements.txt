@@ -2,5 +2,5 @@ streamlit
 deepface==0.0.78
 pillow
 opencv-python-headless
-keras==2.10
+keras==2.8
 retinaface==0.0.17
