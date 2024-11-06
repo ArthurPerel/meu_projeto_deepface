@@ -1,3 +1,4 @@
+pip install deepface==0.0.78 keras==2.10 retinaface==0.0.17 opencv-python-headless pillow
 # import module
 import streamlit as st
 import pandas as pd
